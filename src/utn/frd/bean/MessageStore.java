@@ -20,3 +20,5 @@ public class MessageStore {
 		this.message = message;
 	}
 }
+
+
